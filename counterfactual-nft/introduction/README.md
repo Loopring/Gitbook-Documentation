@@ -11,7 +11,7 @@ First, we use `CREATE2` to calculate the counterfactual NFT’s smart contract a
 * A counterfactual NFT factory (`factory` ) that will deploy the actual NFT contract for us when necessary. Deploying a new NFT contract is simply creating a new proxy instance that delegates all logic to a concrete counterfactual NFT implementation.
 * The NFT contract’s owner address (`owner` ). The owner is also the only account allowed to mint the NFT on Loopring Layer 2 under this contract.
 
-The following code sample demonstrates how to calculate the contract address. You can refer to [our GitHub repo](https://github.com/Loopring/counterfactual-nft/blob/main/contracts/CounterfactualNFT.sol) for more details on the contract implementation.
+The following code sample demonstrates how to calculate the contract address. You can refer to [our GitHub repo](https://github.com/Loopring/Gitbook-Documentation) for more details on the contract implementation.
 
 ```
 Create2Upgradeable.computeAddress(               
