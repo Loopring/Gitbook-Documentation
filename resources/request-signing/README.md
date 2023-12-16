@@ -15,7 +15,7 @@ You can learn more about the Poseidon hash and EdDSA signature through the follo
 3. **EdDSA**: [https://en.wikipedia.org/wiki/EdDSA](https://en.wikipedia.org/wiki/EdDSA)
 4. **Poseidon Hash**: [https://www.poseidon-hash.info/](https://www.poseidon-hash.info/)
 
-You can also refer to our [example code](https://docs-protocol.loopring.io/sdk/sdk-guides) for more details.
+You can also refer to our [example code](https://docs-protocol.loopring.io/resources/signature/sdk-signature/mock-signature) for more details.
 {% endhint %}
 
 ### &#x20;<a href="#references" id="references"></a>
