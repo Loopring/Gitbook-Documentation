@@ -13,11 +13,11 @@
     * [Mock Generate eddsaKey](sdk/test-mock-data/mock-generate-eddsakey.md)
 * [Glossary](glossary.md)
 
-## 🗳 Loopring Account
+## 🗳️ Loopring Account
 
 * [Introduction](loopring-account/introduction.md)
 * [SDK Guides](loopring-account/sdk-guides/README.md)
-  * [Setup a Loopring Account ](loopring-account/sdk-guides/setup-a-loopring-account.md)
+  * [Setup a Loopring Account](loopring-account/sdk-guides/setup-a-loopring-account.md)
   * [Unlock Account (Login)](loopring-account/sdk-guides/unlock-account-login.md)
 * [API References](loopring-account/api-references/README.md)
   * [Get Account info](loopring-account/api-references/get-account-info/README.md)
